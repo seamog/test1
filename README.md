@@ -7,3 +7,5 @@ for test
 commit encoding
 
 euc-kr
+
+cp949 test
